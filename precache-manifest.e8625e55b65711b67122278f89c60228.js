@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ed42a62c220294e1cc1ab8f2ebb52537",
+    "revision": "a10c49de005200453985e9d8693eef09",
     "url": "/index.html"
   },
   {
-    "revision": "3c694a37ddd684d6f1f9",
-    "url": "/static/css/main.16ac450b.chunk.css"
+    "revision": "003d94240038dcf7c7cf",
+    "url": "/static/css/main.8a1648d1.chunk.css"
   },
   {
-    "revision": "6c5fcf7f6cc8d9af1cec",
-    "url": "/static/js/2.96d0d2ea.chunk.js"
+    "revision": "5b11a732cd8a0484f0fa",
+    "url": "/static/js/2.04463924.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/static/js/2.96d0d2ea.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.04463924.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3c694a37ddd684d6f1f9",
-    "url": "/static/js/main.e03b707a.chunk.js"
+    "revision": "003d94240038dcf7c7cf",
+    "url": "/static/js/main.7c9ba216.chunk.js"
   },
   {
     "revision": "765d9684b1243a043af4",
@@ -30,6 +30,38 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8df0c3b03aff56cc4c4c15106546d63a",
     "url": "/static/media/banner-logo.8df0c3b0.png"
+  },
+  {
+    "revision": "d2f64b64294303c52076e211052adb69",
+    "url": "/static/media/promo-bottom-left-logo.d2f64b64.png"
+  },
+  {
+    "revision": "698c3ca1cf52d8516fd387f4dc024e9a",
+    "url": "/static/media/promo-bottom-left.698c3ca1.jpg"
+  },
+  {
+    "revision": "77c554dd6be7545cd71119be1eebb70f",
+    "url": "/static/media/promo-bottom-right.77c554dd.jpg"
+  },
+  {
+    "revision": "b600e737aaf9b0d75a144faf72023d7c",
+    "url": "/static/media/promo-mid-left-logo.b600e737.png"
+  },
+  {
+    "revision": "e8075a22c974809b5249f4ced4f50e23",
+    "url": "/static/media/promo-mid-left.e8075a22.jpg"
+  },
+  {
+    "revision": "b7c9d1e5273507b12e1a3a49ceb49502",
+    "url": "/static/media/promo-mid-right.b7c9d1e5.jpg"
+  },
+  {
+    "revision": "b996a7b2d47fd53cfae63ffde547bd6a",
+    "url": "/static/media/promo-top-left.b996a7b2.jpg"
+  },
+  {
+    "revision": "44d8a3136a82e26215db79ad696e7a71",
+    "url": "/static/media/promo-top-right.44d8a313.jpg"
   },
   {
     "revision": "3a73eb5930ce0f8802dd16c443b5e1be",
